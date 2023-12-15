@@ -3,7 +3,7 @@
 }
 
 h1 {
-    color: rgb(43, 183, 78);
+    color: brown;
 }
 
 p,
@@ -34,4 +34,11 @@ ul.horizontal li a{
 ul.horizontal li a:hover{
     color: white;
     background-color: blue;
+}
+
+header {
+    background-color: burlywood;
+}
+body {
+  background-color: beige;
 }
