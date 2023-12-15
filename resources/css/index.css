@@ -14,3 +14,24 @@ li {
 a {
     text-decoration: none;
 }
+
+ul.horizontal{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.horizontal li{
+    display: inline-block;
+    padding: 10px;
+}
+
+ul.horizontal li a{
+    text-decoration: none;
+    color: black;
+}
+
+ul.horizontal li a:hover{
+    color: white;
+    background-color: blue;
+}
